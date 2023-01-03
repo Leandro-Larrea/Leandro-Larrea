@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leandro-larrea&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-larrea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandro-larrea" alt="leandro-larrea" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandro-larrea" alt="leandro-larrea" /></a> </p>
 
 ### 💻Open To Work!  
 - 🔭 I’m currently looking for a job 
