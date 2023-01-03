@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-larrea&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-larrea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandro-larrea" alt="leandro-larrea" /></a> </p>
-
 - 👨‍💻 Wanna see how my projects look? [https://leanportfolio.vercel.app/](https://leanportfolio.vercel.app/)
 
 - 📫 How to reach me **leandrodevlarrea@hotmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro-larrea&show_icons=true&locale=en&layout=compact" alt="leandro-larrea" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandro-larrea&show_icons=true&locale=en" alt="leandro-larrea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandro-larrea&" alt="leandro-larrea" /></p>
