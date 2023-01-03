@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandro-larrea" alt="leandro-larrea" /></a> </p>
 
+### 💻Open To Work!  
+- 🔭 I’m currently looking for a job 
+
 - 👨‍💻 Wanna see how my projects look? [https://leanportfolio.vercel.app/](https://leanportfolio.vercel.app/)
 
 - 📫 How to reach me **leandrodevlarrea@hotmail.com**
