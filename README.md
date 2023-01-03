@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/leandro-larrea-11bb90249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro (gustavo) larrea" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">About me:</h3>
+ - I used to work in the rural area, i started with programming on may 2022, since then i've been doing my best, coding, reading and learning stuff every day, being involved as long as i can. I studed in a bootcamp (soy Henry) and i loved it. Now days i'm focused in improve the skills that i've learned in the bootcamp, doing different projects with my friends and studing full time.
+
 <h3 align="left">Goals:</h3>
 
 - Get my first job in IT
