@@ -24,7 +24,7 @@
 
 - Get my first job in IT
 
-- To learn Next.js and tailwind while improving my current stack 
+- To learn C# and .net while improving my current stack 
 
 <h3 align="left">Languages and Tools:</h3>
 
