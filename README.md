@@ -18,13 +18,13 @@
 </p>
 
 <h3 align="left">About me:</h3>
- - I used to work in the rural area, i started with programming on may 2022, since then i've been doing my best, coding, reading and learning stuff every day, being involved as long as i can. I studed in a bootcamp (soy Henry) and i loved it. Now days i'm focused in improve the skills that i've learned in the bootcamp, doing different projects with my friends and studing full time.
+I am currently working as a Full Stack Developer at Taggify, a company specializing in Digital Out-Of-Home (DOOH) advertising. My role involves developing and maintaining innovative advertising solutions, ensuring the seamless integration of technology to enhance our advertising capabilities.
 
 <h3 align="left">Goals:</h3>
 
-- Get my first job in IT
-
-- To learn C# and .net while improving my current stack 
+Continue enhancing my skills in full stack development.
+Learn C# and .NET to broaden my technical expertise.
+Contribute to impactful projects and collaborate with talented professionals in the tech industry.
 
 <h3 align="left">Languages and Tools:</h3>
 
